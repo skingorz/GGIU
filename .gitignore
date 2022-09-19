@@ -1,0 +1,7 @@
+*__pycache__*
+config/config.yaml
+config/config_test.yaml
+datasets/*
+results
+.vscode
+config/set_config_PN_debug.py
